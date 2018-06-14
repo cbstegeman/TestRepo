@@ -13,3 +13,4 @@ Unreal_Escape/Content/StarterContent/
 ######################
 
 *.VC.db
+*.ipch
